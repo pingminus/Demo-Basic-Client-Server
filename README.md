@@ -31,6 +31,8 @@ This project consists of two main components: a server and a client. The server 
 ## Getting Started
 
 To run this project, you need to have the Java Development Kit (JDK) installed on your machine.
+1. Run Server.java to start the server
+2. Run Client.java to create a new client that connects to the server
 
 ### Prerequisites
 
