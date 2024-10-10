@@ -2,14 +2,6 @@
 
 A simple Java client-server application that demonstrates basic socket programming for communication between a client and a server.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [License](#license)
 
 ## Overview
 
