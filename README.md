@@ -31,20 +31,18 @@ This project consists of two main components: a server and a client. The server 
 ## Getting Started
 
 To run this project, you need to have the Java Development Kit (JDK) installed on your machine.
+
 1. Run `Server.java` to start the server.
 2. Run `Client.java` to create a new client that connects to the server.
 
 ### Example Output
 
 - **Server Console**:
-
-  ![Server Console](https://github.com/user-attachments/assets/e321c2ae-a8b7-4408-8722-4374e132272a)
-
-- **Client Console**:
-
-  ![Client Console](https://github.com/user-attachments/assets/04dc40ca-f38e-498d-b76a-86bccc60f402)
-
-
+  
+  ```bash
+  Server is listening on port 1234
+  Client connected!
+  Received from client: Hello, Server!
 ### Prerequisites
 
 - Java 8 or higher
